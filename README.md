@@ -281,4 +281,6 @@ Overwrite EAAntiCheat.Installer.exe? (Yes/No/All): A
         1 file(s) copied.
 ```
 
-These files are available under an Attribution-NonCommercial-NoDerivatives 4.0 International license.
+# License
+
+These files are available under the 3-clause BSD license.
